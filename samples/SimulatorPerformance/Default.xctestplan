@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "E615C1B9-8B98-4C65-9C35-0FE601958050",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SimulatorPerformance.xcodeproj",
+        "identifier" : "4BD5E9012A3B60730022EF94",
+        "name" : "SimulatorPerformanceUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
