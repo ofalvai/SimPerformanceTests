@@ -6,15 +6,38 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		pbsINKm6wk/qICVZjc1wF4DTjD8=
+		K3g66b/L+hC5V+T/zr0yisWK3lI=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>SimulatorPerformance.debug.dylib</key>
+		<data>
+		PHLSkrcX2iSI7Db3R8Sf8nF1fTQ=
+		</data>
+		<key>__preview.dylib</key>
+		<data>
+		8jFJO89Oiswth+9NUEPwyQ0jZCk=
+		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>SimulatorPerformance.debug.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHQ8uglJczcle/i5Aqv4HkgAAhx1i7iJ3BO9u/6qBbo=
+			</data>
+		</dict>
+		<key>__preview.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/roXaseq15Ny8kC2uf+Z7xHiRvTvlCqkBg/TXBnT9zE=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>

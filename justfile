@@ -16,5 +16,5 @@ build-for-testing:
 
 test-without-building os device:
     xcodebuild test-without-building \
-        -xctestrun samples/SimulatorPerformance/build/SimulatorPerformance_Default_iphonesimulator16.4-arm64-x86_64.xctestrun \
+        -xctestrun samples/SimulatorPerformance/build/SimulatorPerformance_Default_iphonesimulator18.0-arm64.xctestrun \
         -destination "platform=iOS Simulator,OS={{os}},name={{device}}"
